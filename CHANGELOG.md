@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Jun 22 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@firas-ben-thayer](https://github.com/firas-ben-thayer))
+
+#### Authors: 1
+
+- Firas Ben Thayer ([@firas-ben-thayer](https://github.com/firas-ben-thayer))
+
+---
+
 # v0.0.1 (Sat Jun 22 2024)
 
 :tada: This release contains work from a new contributor! :tada:
